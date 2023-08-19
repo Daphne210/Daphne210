@@ -21,10 +21,10 @@ I am a passionate software developer <img src="https://media.giphy.com/media/WUl
 </div>
 
 <div id="badges">
-  <a href="https://linkedin.com/in/daphne-nalule-61a69121b/">
+  <a href="https://linkedin.com/in/daphne-nalule-61a69121b/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/phinerry"> 
+  <a href="https://twitter.com/phinerry" target="_blank"> 
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
